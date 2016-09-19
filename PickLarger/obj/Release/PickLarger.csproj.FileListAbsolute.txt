@@ -1,0 +1,13 @@
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\PickLarger\PickLarger\obj\Release\PickLarger.exe
+C:\CSharp3\Chapter12\CSharp3eChapter12Exercises\PickLarger\PickLarger\obj\Release\PickLarger.pdb
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\PickLarger.exe
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\PickLarger.pdb
+C:\C#\Chapter.13\PickLarger\PickLarger\bin\Release\PickLarger.exe
+C:\C#\Chapter.13\PickLarger\PickLarger\bin\Release\PickLarger.pdb
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\PickLarger.Form1.resources
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\PickLarger.Properties.Resources.resources
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\Chapter.13\PickLarger\PickLarger\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\CSharp4\Chapter13\Solutions\Exercises\PickLarger\PickLarger\obj\Release\PickLarger.exe
+C:\CSharp4\Chapter13\Solutions\Exercises\PickLarger\PickLarger\obj\Release\PickLarger.pdb

@@ -1,0 +1,8 @@
+obj\Release\PickLarger.exe
+obj\Release\PickLarger.pdb
+bin\Release\PickLarger.exe
+bin\Release\PickLarger.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PickLarger.Form1.resources
+obj\Release\PickLarger.Properties.Resources.resources
+obj\Release\PickLarger.csproj.GenerateResource.Cache
